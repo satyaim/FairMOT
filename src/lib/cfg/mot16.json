@@ -1,5 +1,5 @@
 {
-    "root":"/contents",
+    "root":"/content",
     "train":
     {
         "mot16":"./data/mot16.train"
